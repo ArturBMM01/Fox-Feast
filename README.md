@@ -122,3 +122,5 @@ Os recordes e as preferências de áudio são salvos localmente.
 | `foxfeast/__init__.py` | Identificação do pacote |
 
 ## Vídeo de demonstração
+
+https://youtu.be/RL0NqMy26x0?is=sZZ5wYmfVEBzrr8n
