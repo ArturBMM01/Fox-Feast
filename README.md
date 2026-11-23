@@ -124,3 +124,8 @@ Os recordes e as preferências de áudio são salvos localmente.
 ## Vídeo de demonstração
 
 https://youtu.be/RL0NqMy26x0?is=sZZ5wYmfVEBzrr8n
+
+
+## Link da conversa com a Inteligência Artificial
+
+https://chatgpt.com/share/e/6b044104-c4bc-83e8-80db-f6789498817b
